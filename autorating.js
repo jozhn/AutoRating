@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         教学质量自动考评
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  教学质量自动考评脚本
 // @author       Jozhn
 // @require      http://cdn.bootcss.com/jquery/1.8.3/jquery.min.js
